@@ -2,7 +2,7 @@
 NUMBER_OF_WORKERS = 20
 BLENDING_LIST = [
     "gaussian",
-    "poisson",  # takes a lot of time and results are not that good
+    # "poisson",  # takes a lot of time and results are not that good
     # "poisson-fast",  # only with Docker GPU
     "none",
     # "box",
