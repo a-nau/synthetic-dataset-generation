@@ -19,7 +19,7 @@
 </p>
 
 This repo helps you to very easily create your own instance segmentation dataset rapidly. What do you need?
-The relevant resources, i.e. and image pool of
+The relevant resources, i.e. an image pool of
 
 - background images (any sizes)
 - objects of interest (in RGBA format)
@@ -89,8 +89,6 @@ If you use this code for scientific research, please consider citing the followi
 
 ### Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection
 
-[![arxiv](http://img.shields.io/badge/paper-arxiv.1708.01642-B31B1B.svg)](https://arxiv.org/abs/1708.01642)
-
 The original work, including the [code](https://github.com/debidatta/syndata-generation) on which this repository is
 built. Thanks a lot to the authors for providing their code!
 
@@ -103,6 +101,9 @@ month = {Oct},
 year = {2017}
 }
 ```
+
+- Paper: [arxiv](https://arxiv.org/abs/1708.01642)
+  and [ICCV 2017](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dwibedi_Cut_Paste_and_ICCV_2017_paper.pdf)
 
 ### Scrape, Cut, Paste and Learn: Automated Dataset Generation Applied to Parcel Logistics
 
