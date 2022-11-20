@@ -1,3 +1,4 @@
+[![CI](https://github.com/a-nau/synthetic-dataset-generation/workflows/CI/badge.svg)](https://github.com/a-nau/synthetic-dataset-generation/actions)
 [![basis](https://img.shields.io/badge/based%20on-debidatta/syndata--generation-brightgreen.svg)](https://github.com/debidatta/syndata-generation)
 [![arxiv](http://img.shields.io/badge/paper-arxiv.2210.09814-B31B1B.svg)](https://arxiv.org/abs/2210.09814)
 [![project page](https://img.shields.io/badge/website-project%20page-informational.svg)](https://a-nau.github.io/parcel2d)
