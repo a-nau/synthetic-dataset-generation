@@ -1,0 +1,14 @@
+{
+    "test": [
+        
+    ],
+    "train": [
+        "box/box_01.png",
+        "box/box_02.png",
+        "box/box_03.png",
+        "box/box_04.png",
+        "box/box_05.png"
+    ],
+    "validation": [
+    ]
+}
