@@ -10,7 +10,7 @@
 > hopefully is more convenient to use. All credits to the original authors (also see [Citation](#citation)).
 >
 <p align="center">
-    <img src="data/misc/overview_composition.png" alt="Overview" height="350"/>
+    <img src="data/misc/overview_composition.png" alt="Overview">
     <br>
     <span style="font-size: small">
       <b>Figure:</b> 
